@@ -1,0 +1,19 @@
+# Projeto Soma
+Uma calculadora básica desenvolvida em Java usando a biblioteca Swing para criar uma interface gráfica.
+
+## Funcionalidades
+- Permite inserir dois valores numéricos.
+- Calcula a soma dos valores e exibe o resultado.
+- Possui função de limpar os campos.
+
+## Como executar o projeto
+### Requisitos:
+- JDK 8 ou superior instalado.
+- NetBeans IDE (opcional) ou qualquer outra IDE que suporte projetos Java.
+### Executando:
+- A maneira mais fácil e prática de executar este código é:
+1. Ir na pasta src/Form1.java do projeto.
+3. Clicar no botão de copiar código(Copy raw file) no canto direito superior da tela.
+4. Na sua IDE, ir na opção de criar Java Project.
+5. E na pasta src do projeto(que é criada automaticamente), criar um arquivo com o nome Form1.java, 
+colar o código na area de edição, salvar e executar.
