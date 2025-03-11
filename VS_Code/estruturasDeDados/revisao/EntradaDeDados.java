@@ -10,8 +10,12 @@ public class EntradaDeDados {
 
         System.out.print("Digite a sua idade: ");
         int idade = scanner.nextInt();
+        scanner.nextLine();
 
-        System.out.println("Olá, "+ nome + "! Você tem " + idade + " anos.");
+        System.out.print("Digite a cidade em que você mora: ");
+        String cidade = scanner.nextLine();
+
+        System.out.println("Olá, "+ nome + "! Você tem " + idade + " anos e mora em " + cidade + ".");
 
         scanner.close();
     }
