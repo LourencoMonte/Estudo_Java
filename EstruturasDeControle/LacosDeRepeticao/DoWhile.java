@@ -1,6 +1,6 @@
 package Estudo_Java.EstruturasDeControle.LacosDeRepeticao;
 
-public class ForWhiile {
+public class DoWhile {
     public static void main(String[] args){
         int k = 1;
 do {
