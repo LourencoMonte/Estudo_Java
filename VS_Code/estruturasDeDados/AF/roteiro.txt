@@ -1,0 +1,39 @@
+1. Manipulação de Arquivos em Java
+✅ Objetivo: Aprender a ler e escrever arquivos .txt
+
+🔹 Atividade 1: Criar um programa que leia um arquivo TXT e exiba o conteúdo no terminal.
+🔹 Atividade 2: Modificar o programa para contar o número total de linhas do arquivo.
+🔹 Atividade 3: Criar um programa que copie o conteúdo de um arquivo para outro.
+🔹 Atividade 4: Ler um arquivo TXT, converter todas as letras para minúsculas e salvar o resultado em um novo arquivo.
+🔹 Atividade 5: Remover a pontuação do texto lido de um arquivo e salvar a versão limpa em outro arquivo.
+
+2. Estruturas de Dados: Listas Encadeadas
+✅ Objetivo: Entender como criar e manipular listas encadeadas, que serão usadas para armazenar palavras e suas ocorrências.
+
+🔹 Atividade 6: Criar uma classe No que armazene um número inteiro e um ponteiro para o próximo nó.
+🔹 Atividade 7: Implementar uma classe ListaEncadeada com métodos para inserir, remover e buscar elementos.
+🔹 Atividade 8: Criar uma lista encadeada que armazene palavras em ordem alfabética.
+🔹 Atividade 9: Modificar a lista para que cada nó contenha uma palavra e uma lista de números de linha.
+
+3. Tabelas Hash (Hash Tables)
+✅ Objetivo: Aprender a organizar palavras de forma eficiente em uma estrutura de dispersão (hash).
+
+🔹 Atividade 10: Criar uma tabela hash que armazene nomes de alunos e suas notas.
+🔹 Atividade 11: Implementar uma função de hash que utilize a primeira letra da palavra como chave.
+🔹 Atividade 12: Modificar a tabela hash para armazenar palavras e uma lista encadeada de ocorrências.
+🔹 Atividade 13: Testar colisões inserindo palavras com a mesma letra inicial e resolvendo-as com listas encadeadas.
+
+4. Algoritmos de Busca e Ordenação
+✅ Objetivo: Melhorar a eficiência do programa na hora de buscar palavras e organizar os dados.
+
+🔹 Atividade 14: Implementar a busca binária em um array ordenado de palavras.
+🔹 Atividade 15: Implementar o algoritmo de ordenação Merge Sort para ordenar palavras alfabeticamente.
+🔹 Atividade 16: Criar um programa que receba uma lista de palavras e retorne as que estão em uma tabela hash.
+
+5. Construção do Índice Remissivo
+✅ Objetivo: Integrar tudo o que foi aprendido para criar o índice remissivo.
+
+🔹 Atividade 17: Criar um programa que percorra um texto e armazene todas as palavras em uma tabela hash com suas ocorrências.
+🔹 Atividade 18: Criar um programa que leia uma lista de palavras-chave e busque essas palavras no índice remissivo.
+🔹 Atividade 19: Modificar o programa para gerar um arquivo TXT contendo o índice remissivo.
+🔹 Atividade 20: Melhorar a eficiência do código testando diferentes funções de hash e otimizando as buscas.
