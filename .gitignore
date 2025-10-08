@@ -1,0 +1,5 @@
+# Pasta de compilação
+bin/
+
+#Arquivos compilados
+*.class
