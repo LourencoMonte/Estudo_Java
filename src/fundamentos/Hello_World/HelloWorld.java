@@ -1,4 +1,4 @@
-package Estudo_Java.Hello_World;
+package Estudo_Java.src.fundamentos.Hello_World;
 
 public class HelloWorld {
     public static void main(String[] args){

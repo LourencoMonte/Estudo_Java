@@ -1,4 +1,4 @@
-package Estudo_Java.EstruturasDeControle.LacosDeRepeticao;
+package Estudo_Java.src.fundamentos.EstruturasDeControle.LacosDeRepeticao;
 
 public class DoWhile {
     public static void main(String[] args){

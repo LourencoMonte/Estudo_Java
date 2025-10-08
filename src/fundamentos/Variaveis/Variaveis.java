@@ -1,4 +1,4 @@
-package Estudo_Java.Variaveis;
+package Estudo_Java.src.fundamentos.Variaveis;
 
 public class Variaveis {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Estudo_Java;
+package Estudo_Java.src.exercicios;
 import java.util.Scanner;
 
 public class Ex2_Maioridade {

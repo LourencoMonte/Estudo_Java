@@ -1,4 +1,4 @@
-package Estudo_Java.EstruturasDeControle;
+package Estudo_Java.src.fundamentos.EstruturasDeControle;
 
 public class IfElse {
     public static void main(String[] args){

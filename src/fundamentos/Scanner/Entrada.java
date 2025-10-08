@@ -1,4 +1,4 @@
-package Estudo_Java.Scanner;
+package Estudo_Java.src.fundamentos.Scanner;
 import java.util.Scanner;
 
 public class Entrada {
