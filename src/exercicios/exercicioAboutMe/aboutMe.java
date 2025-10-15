@@ -1,3 +1,4 @@
+package exercicios.exercicioAboutMe;
 public class aboutMe {
     public static void main(String[] args) {
         String nome = args[0];

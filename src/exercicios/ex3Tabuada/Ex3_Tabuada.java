@@ -1,4 +1,4 @@
-package Estudo_Java.src.exercicios;
+package exercicios.ex3Tabuada;
 import java.util.Scanner;
 
 public class Ex3_Tabuada {

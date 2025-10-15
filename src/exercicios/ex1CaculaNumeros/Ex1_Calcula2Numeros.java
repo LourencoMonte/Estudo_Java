@@ -1,4 +1,4 @@
-package Estudo_Java.src.exercicios;
+package exercicios.ex1CaculaNumeros;
 import java.util.Scanner;
 import java.util.Locale;
 
