@@ -1,4 +1,4 @@
-package Estudo_Java.src.fundamentos.EstruturasDeControle;
+package fundamentos.EstruturasDeControle_4;
 
 public class Switch {
     public static void main(String[] args){

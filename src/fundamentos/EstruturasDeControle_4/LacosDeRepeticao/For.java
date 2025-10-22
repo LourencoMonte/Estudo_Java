@@ -1,4 +1,4 @@
-package Estudo_Java.src.fundamentos.EstruturasDeControle.LacosDeRepeticao;
+package fundamentos.EstruturasDeControle_4.LacosDeRepeticao;
 
 public class For {
     public static void main(String[] args){
