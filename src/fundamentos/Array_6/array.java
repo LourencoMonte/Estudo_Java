@@ -1,4 +1,5 @@
-package Estudo_Java.src.fundamentos.array;
+package fundamentos.Array_6;
+import java.util.Arrays;
 
 public class array {
     public static void main(String[] args){
@@ -12,8 +13,8 @@ public class array {
         nomes[0] = "ana";
         nomes[1] = "sara";
 
-        System.out.println(numeros[0]);
-        System.out.println(nomes[0]);
+        System.out.println(Arrays.toString(numeros));
+        System.out.println(Arrays.toString(nomes));
 
 
     }
