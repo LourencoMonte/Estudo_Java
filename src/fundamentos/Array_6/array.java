@@ -5,6 +5,7 @@ public class array {
     public static void main(String[] args){
         int[] numeros =     new int[5];
         String[] nomes = new String[2];
+        String[] cidades = {"Fortaleza", "Eusébio", "Guaramiranga"};
 
         numeros[0] = 5;
         numeros[1] = 10;
@@ -13,9 +14,10 @@ public class array {
         nomes[0] = "ana";
         nomes[1] = "sara";
 
+
         System.out.println(Arrays.toString(numeros));
         System.out.println(Arrays.toString(nomes));
-
+        System.out.println(cidades[2]);
 
     }
     
