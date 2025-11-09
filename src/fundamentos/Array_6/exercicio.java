@@ -12,8 +12,8 @@ public class exercicio {
         int somatorio = 0;
         
         /*Cria array com 5 elementos digitados pelo usuário */
-        for(int i = 0; i < 5; i++) {
-        System.out.println("Digite 5 números(" + (i + 1) + "/5): ");
+        for(int i = 0; i < numeros.length; i++) {
+        System.out.println("Digite o número " + (i + 1) + " de 5: ");
             numeros[i] = sc.nextInt();
 
             /*Define maior valor */
