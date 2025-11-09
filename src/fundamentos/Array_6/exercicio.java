@@ -9,7 +9,7 @@ public class exercicio {
         int[] numeros = new int[5];
         int maiorValor = Integer.MIN_VALUE;
         int menorValor = Integer.MAX_VALUE;;
-        int somatorio = 0;
+        double somatorio = 0;
         
         /*Cria array com 5 elementos digitados pelo usuário */
         for(int i = 0; i < numeros.length; i++) {
@@ -29,7 +29,7 @@ public class exercicio {
             somatorio = somatorio + numeros[i];
         }
 
-        int media = somatorio / numeros.length;
+        double media = somatorio / numeros.length;
 
 
 
