@@ -1,5 +1,6 @@
 package fundamentos.Metodos_7;
 
+/* Método sem retorno com parâmetro */
 public class metodos{
 
      /* Métodos */
