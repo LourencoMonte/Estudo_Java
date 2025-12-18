@@ -1,4 +1,4 @@
-package Estudo_Java.src.fundamentos.Operadores_Basicos;
+package fundamentos.Operadores_Basicos_3;
 
 public class OperadoresLogicos {
     public static void main(String[] args){

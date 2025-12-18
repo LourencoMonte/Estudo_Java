@@ -1,4 +1,4 @@
-package Estudo_Java.src.fundamentos.Scanner;
+package fundamentos.Entrada_e_Saida_5;
 import java.util.Scanner;
 
 public class Entrada {
