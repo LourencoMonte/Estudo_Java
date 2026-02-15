@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.FundamentosDaLinguagemDeProgramacao;
 
 import java.util.Scanner;
 import java.time.LocalDate;
