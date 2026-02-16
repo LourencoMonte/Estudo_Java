@@ -6,18 +6,28 @@ public class IMC {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Digite sua altura em metros.");
-        double heigh = sc.nextDouble();
+        String alturaStr = sc.next().replace(",", ".");
+        double heigh = Double.parseDouble(alturaStr);
 
         System.out.println("Digite sua massa corporal em kilogramas.");
-        double weight = sc.nextDouble();
+        String pesoStr = sc.next().replace(",", ".");
+        double weight = Double.parseDouble(pesoStr);
 
         double imc = weight/(heigh*heigh);
 
-        System.out.println(imc);
-
-       
-       
-
+        if (imc < 18.5){
+            System.out.printf("Seu IMC é %.1f. Você está abaixo do peso.%n", imc);
+        } else if(imc < 25){
+            System.out.printf("Seu IMC é %.1f. Você está com o peso ideal.%n", imc);
+        } else if(imc < 30){
+            System.out.printf("Seu IMC é %.1f. Você está levemente acima do peso.%n", imc);
+        } else if(imc < 35){
+            System.out.printf("Seu IMC é %.1f. Você está com obesidade grau I.%n", imc);
+        } else if(imc < 40){
+            System.out.printf("Seu IMC é %.1f. Você está com obesidade grau II(Severa).%n", imc);
+        } else if(imc >= 40){
+            System.out.printf("Seu IMC é %.1f. Você está com obesidade grau III(Mórbida).%n", imc);
+        }
        sc.close();
     }
 }
