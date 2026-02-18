@@ -18,13 +18,21 @@ public class ex3 {
             switch (escolha){
             case 1:
                 for(int i = numTeto; i >= numPiso; i--){
+                    if(i % 2 != 0){
                     System.out.println(i);
-                }
+                }   }
+                break;
             
             case 2:
                 for(int i = numTeto; i >= numPiso; i--){
+                    if(i % 2 == 0){
                     System.out.println(i);
-                }
+                }   }
+                break;
+
+            default: 
+            System.out.println("Opção selecionada inválida");
+                
             } 
         sc.close();
     }
